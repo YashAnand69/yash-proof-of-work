@@ -4,7 +4,7 @@ An original static portfolio page for sharing selected, inspectable projects wit
 
 ## Local preview
 
-```
+```sh
 python3 -m http.server 4173
 ```
 
