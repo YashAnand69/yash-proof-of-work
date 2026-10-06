@@ -1,7 +1,7 @@
 # Yash Anand — proof of work
 
 An original static portfolio page for sharing selected, inspectable projects with prospective clients. No third-party artwork, tracking, backend, build step, or runtime secrets.
-
+.
 ## Local preview
 
 ```sh
